@@ -1,8 +1,7 @@
 To Run :
 
-1. npm install
+1. npm install -S
 
-2. npm run dev (Development mode)
+2. ./node_modules/.bin/webpack -d
 
-3. npm run build (Production mode)
-
+3. open src/client/index.html in browser
