@@ -10,7 +10,6 @@ var config = {
     path: BUILD_DIR,
     filename: 'bundle.js'
   },
-  
   module : {
     loaders : [
       {
@@ -20,7 +19,6 @@ var config = {
       }
     ]
   }
-
 };
 
 module.exports = config;
