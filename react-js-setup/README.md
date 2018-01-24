@@ -4,4 +4,4 @@ To Run :
 
 2. ./node_modules/.bin/webpack -d
 
-3. open src/client/index.html in browser
+3. open src/client/index.html in your browser 
